@@ -218,7 +218,7 @@ namespace Space_Race
             {
                 if (p2.IntersectsWith(Lefts[i]))
                 {
-                    if (ColoursR[i] == "white")
+                    if (ColoursL[i] == "white")
                     {
                         if (power2 == true)
                         {
@@ -268,7 +268,7 @@ namespace Space_Race
             {
                 if (p1.IntersectsWith(Lefts[i]))
                 {
-                    if (ColoursR[i] == "white")
+                    if (ColoursL[i] == "white")
                     {
                         if (power1 == true)
                         {
